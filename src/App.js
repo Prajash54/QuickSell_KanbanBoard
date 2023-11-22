@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import DisplayOptions from './components/DisplayOptions';
 import Board from './components/Board';
-
+import './styles.css';
 
 function App() {
   const [tickets, setTickets] = useState([]);
