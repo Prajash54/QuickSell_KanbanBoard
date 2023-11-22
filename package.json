@@ -1,7 +1,7 @@
 {
   "name": "kanban_board",
   "version": "0.1.0",
-  "homepaege": "https://prajash54.github.io/QuickSell_KanbanBoard/",
+  "homepaege": "https://prajash54.github.io/QuickSell_KanbanBoard/build",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
